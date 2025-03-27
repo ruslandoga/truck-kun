@@ -4,7 +4,7 @@ maybe something like
 $ tk ...
 ```
 
-and it like deploys to htzner and stuff you know
+and it like deploys to internet and stuff you know
 
 and updates dns and stuff for service discovery and stuff you knpw
 
